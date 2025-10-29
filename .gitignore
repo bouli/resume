@@ -1,0 +1,8 @@
+.DS_Store
+venv
+*.html
+*.pdf
+.env
+*.md-e
+resume-photo
+resume.md
