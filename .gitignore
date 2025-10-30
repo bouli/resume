@@ -1,8 +1,5 @@
 .DS_Store
 venv
-*.html
-*.pdf
 .env
-*.md-e
 .temp
 output
