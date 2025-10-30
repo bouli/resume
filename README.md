@@ -3,10 +3,10 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- ✉️ <email@some-email-server.com>
-- 📞 +00-0000-0000
+<!-- - ✉️ <email@some-email-server.com> -->
+<!-- - 📞 +00-0000-0000 -->
 - 🌐 [http://cesarcardoso.cc](http://cesarcardoso.cc)
-- 🏠 My Address Street, 0 - 00000 - City, CC
+<!-- - 🏠 My Address Street, 0 - 00000 - City, CC -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
