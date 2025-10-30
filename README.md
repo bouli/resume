@@ -32,7 +32,7 @@ hand -->
 - Collaborated with C-Suite to establish OKRs, improving data reporting to donors and stakeholders;
 - Led the implementation of data governance measures, establishing a robust data management framework;
 
-> Tech stack: `GCP` (`Functions`, `BigQuery`, `Storage`, `Dataform`), `Postgres`, `Firebase`, `MongoDB`, `SQL` and `Python` (`Pandas`, `NumPy`, `PySpark`).
+> Tech stack: `GCP` (`Functions`, `BigQuery`, `Storage`, `Dataform`), `Docker`, `Postgres`, `Firebase`, `MongoDB`, `SQL` and `Python` (`Pandas`, `NumPy`, `PySpark`).
 
 
 ### <span>Lead Software Engineer, [Laboratoria](https://laboratoria.la/) - `10.2018 - 07.2021` _(2 yrs 10 mos)_</span> <span><span> | </span>Lima, Perú (remote)</span>
@@ -42,7 +42,7 @@ hand -->
 - Led the transformation of physical teams into effective remote teams, boosting productivity;
 - Collaborated with product owners and developers to design, build, and maintain web solutions;
 
-> Tech stack: `GCP`, `NodeJS`, `React`, `MongoDB` and `Firebase`.
+> Tech stack: `GCP`, `NodeJS`, `React`, `Docker`,`MongoDB` and `Firebase`.
 
 
 ### <span>IT Director, [TECHO](https://www.techo.org/) - `06.2016 - 10.2018` _(2 yrs 5 mos)_</span> <span><span> | </span>Santiago, Chile</span>
