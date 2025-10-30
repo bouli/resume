@@ -4,5 +4,5 @@ venv
 *.pdf
 .env
 *.md-e
-resume-photo
-resume.md
+.temp
+output
