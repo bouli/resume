@@ -25,7 +25,7 @@ Nach 17 Jahren Berufserfahrung in der Softwareentwicklung habe ich mir eine Zeit
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Lead Data Engineer, [Laboratoria](https://laboratoria.la/) - `07.2021 - 06.2024` _(3 yrs)_</span> <span><span> | </span>Lima, Perú (remote)</span>
+### <span>Lead Data Engineer, [Laboratoria](https://laboratoria.la/) - `07.2021 - 06.2024` _(3 Jahren)_</span> <span><span> | </span>Lima, Perú (remote)</span>
 <!-- Thinking about say something about the place -->
 - Umwandlung von Datenerfassungsprozessen in strukturierte und stabile Pipelines zur Steigerung der Effizienz;
 - Integration div. Datenquellen in den Data Lake zur Erweiterung der Datenkapazitäten des Unternehmens;
@@ -35,7 +35,7 @@ hand -->
 > Tech stack: `GCP` (`Functions`, `BigQuery`, `Storage`, `Dataform`), `Docker`, `Postgres`, `Firebase`, `MongoDB`, `SQL` und `Python` (`Pandas`, `NumPy`, `PySpark`).
 
 
-### <span>Lead Software Engineer, [Laboratoria](https://laboratoria.la/) - `10.2018 - 07.2021` _(2 yrs 10 mos)_</span> <span><span> | </span>Lima, Perú (remote)</span>
+### <span>Lead Software Engineer, [Laboratoria](https://laboratoria.la/) - `10.2018 - 07.2021` _(2 Jahren 10 Monate)_</span> <span><span> | </span>Lima, Perú (remote)</span>
 <!-- Thinking about say something about the place -->
 - Konzeption und Leitung von Teams zur Entwicklung von Systemen, die den gesamten Produktlebenszyklus abbilden;
 - Förderung der Integration aller Beteiligten zur Erreichung gemeinsamer technischer Ziele und Verbesserung der Zusammenarbeit;
@@ -45,7 +45,7 @@ hand -->
 > Tech stack: `GCP`, `NodeJS`, `React`, `Docker`,`MongoDB` und `Firebase`.
 
 
-### <span>IT Direktor, [TECHO](https://www.techo.org/) - `06.2016 - 10.2018` _(2 yrs 5 mos)_</span> <span><span> | </span>Santiago, Chile</span>
+### <span>IT Direktor, [TECHO](https://www.techo.org/) - `06.2016 - 10.2018` _(2 Jahren 5 Monate)_</span> <span><span> | </span>Santiago, Chile</span>
 <!-- Thinking about say something about the place -->
 • Leitung der Technologiestrategie und des Systemmanagements in 21 Ländern Lateinamerikas, der Karibik und den USA;
 • Entwicklung der 10-Jahres-Strategie für TECHO Internacional;
@@ -56,7 +56,7 @@ hand -->
 > Tech stack: `GCP`, `Python`, `PHP`, `Linux`, `Mysql`, `Wordpress`.
 
 
-### <span>Project Manager, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `10.2024 - 04.2016` _(1 yrs 7 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
+### <span>Project Manager, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `10.2024 - 04.2016` _(1 Jahr 7 Monate)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 • KeyPlayer für die Optimierung von Online-Kampagnen, Leitung div. Technikteams für namhafte Kunden;
@@ -66,14 +66,14 @@ hand -->
 
 > Tech stack: `PHP`, `MySQL`, `HTML5`, `Adobe Flash`, `Wordpress`, `Magento`, `GA4`.
 
-### <span>Software Engineer, [ERPFlex](https://erpflex.com.br/) - `08.2012 - 10.2024` _(2 yrs 3 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
+### <span>Software Engineer, [ERPFlex](https://erpflex.com.br/) - `08.2012 - 10.2024` _(2 Jahren 3 Monate)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Entwicklung eines ERP-Systems mit PHP, Adobe Flex und MySql.
 
 > Tech stack: `PHP`, `Adobe Flex`, `MySql`.
 
-### <span>Software Engineer, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `02.2012 - 08.2012` _(7 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
+### <span>Software Engineer, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `02.2012 - 08.2012` _(7 Monate)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Systementwicklung mit PHP, MySQL, WordPress und dazugehöriger Facebook-Integration.
@@ -81,7 +81,7 @@ hand -->
 > Tech stack: `PHP`, `MySql`, `Wordpress`.
 
 
-### <span>IT Direktor (Co-Gründer), [Incandescente](https://www.incandescente.com.br/) - `07.2009 - 02.2012` _(2 yrs 8 mos)_</span> <span><span> | </span>São Bernardo do Campo, Brazil</span>
+### <span>IT Direktor (Co-Gründer), [Incandescente](https://www.incandescente.com.br/) - `07.2009 - 02.2012` _(2 Jahren 8 Monate)_</span> <span><span> | </span>São Bernardo do Campo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Verantwortlich für die Technologie-Strategie, das Produkt Design sowie die Umsetzung.
@@ -89,7 +89,7 @@ hand -->
 > Tech stack: `PHP`, `MySql`, `Adobe Flex`.
 
 
-### <span>Software Engineer, [RAPP Brasil](https://www.rapp.com/) - `08.2011 - 10.2011` _(3 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
+### <span>Software Engineer, [RAPP Brasil](https://www.rapp.com/) - `08.2011 - 10.2011` _(3 Monate)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Systementwicklung mit PHP, MySQL, WordPress und dazugehöriger Facebook-Integration.
@@ -97,7 +97,7 @@ hand -->
 > Tech stack: `PHP`, `MySql`, `Wordpress`.
 
 
-### <span>Software Engineer, [ERPFlex](https://erpflex.com.br/) - `01.2010 - 07.2011` _(1 yrs 7 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
+### <span>Software Engineer, [ERPFlex](https://erpflex.com.br/) - `01.2010 - 07.2011` _(1 Jahr 7 Monate)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Entwicklung eines ERP-Systems mit PHP, Adobe Flex und MySql.
@@ -105,7 +105,7 @@ hand -->
 > Tech stack: `PHP`, `Adobe Flex`, `MySql`.
 
 
-### <span>Web Developer, [Click;Pronto](https://www.clickpronto.com.br/) - `05.2008 - 12.2009` _(1 yrs 8 mos)_</span> <span><span> | </span>Santo André, Brazil</span>
+### <span>Web Developer, [Click;Pronto](https://www.clickpronto.com.br/) - `05.2008 - 12.2009` _(1 Jahr 8 Monate)_</span> <span><span> | </span>Santo André, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Entwicklung eines ERP-Systems mit PHP, ASP.NET, CSS, Javascript, Flash, Ajax, MySql, SQL Server.
@@ -113,7 +113,7 @@ hand -->
 > Tech stack: `PHP`, `CSS`, `Javascript`, `Flash`, `Ajax`, `ASP.NET`, `MySql`, `MS SQL Server`.
 
 
-### <span>Intern Programmer, [OIC](https://oic.com.br/) - `01.2008 - 05.2008` _(5 mos)_</span> <span><span> | </span>São Bernardo do Campo, Brazil</span>
+### <span>Intern Programmer, [OIC](https://oic.com.br/) - `01.2008 - 05.2008` _(5 Monate)_</span> <span><span> | </span>São Bernardo do Campo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Entwicklung eines Systems mit ASP.NET, PHP, CSS, Javascript, Adobe Flash, Ajax, Oracle.
@@ -121,7 +121,7 @@ hand -->
 > Tech stack: `ASP.NET`, `PHP`, `CSS`, `Javascript`, `Adobe Flash`, `Ajax`, `Oracle`.
 
 
-### <span>Intern Web Designer, [Click;Pronto](https://www.clickpronto.com.br/) - `06.2007 - 12.2007` _(7 mos)_</span> <span><span> | </span>Santo André, Brazil</span>
+### <span>Intern Web Designer, [Click;Pronto](https://www.clickpronto.com.br/) - `06.2007 - 12.2007` _(7 Monate)_</span> <span><span> | </span>Santo André, Brazil</span>
 
 <!-- Thinking about say something about the place -->
 - Webseitengestaltung, Fotobearbeitung, Webentwicklung mit CMS Joomla, PHP, HTML, CSS, Javascript, Adobe Flash.
@@ -132,13 +132,13 @@ hand -->
 
 ## Studium
 
-### <span>Master - [PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul](https://online.pucrs.br/)</span> <span><span> | </span>2020 - 2021</span>
+### <span>Master of Human Science (M.Sc.) - [PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul](https://online.pucrs.br/)</span> <span><span> | </span>2020 - 2021</span>
 Geisteswissenschaften, Soziologie, Geschichte & Philosophie
 
-### <span>Bachelor B.Sc - [Faculdade Engenheiro Salvador Arena](https://faculdadesalvadorarena.org.br)</span> <span><span> | </span>2005 - 2008</span>
+### <span>Bachelor of Science (B.Sc.) - [Faculdade Engenheiro Salvador Arena](https://faculdadesalvadorarena.org.br)</span> <span><span> | </span>2005 - 2008</span>
 Systemanalyse und -entwicklung
 
-### <span>Technische High School - [ETEC Lauro Gomes](http://www.etelg.com.br)</span> <span><span> | </span>2004 - 2005</span>
+### <span>Technische Fachoberschule - [ETEC Lauro Gomes](http://www.etelg.com.br)</span> <span><span> | </span>2004 - 2005</span>
 Informationstechnologie
 
 
