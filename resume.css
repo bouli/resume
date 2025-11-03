@@ -131,7 +131,10 @@ img {
     /* Move this outside the print block to apply this in HTML too */
     a, a:link, a:visited, a:hover {
         color: #000000;
-        text-decoration: underline;
+    }
+
+    h1 + ul > li > a {
+        text-decoration: none;
     }
 }
 @page {
