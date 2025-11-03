@@ -10,16 +10,18 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I'm a __data engineer__, web developer, and tech lead with over 17 years of experience in the technology market. Deep expertise in __SQL__, __Python__, __GCP__ and modern web technologies. Since moving to Hamburg, I've been looking for a new challenge where I can leverage my technical expertise, leadership skills, and international experience.
+I'm a __Data Engineer__, Web Developer, and Tech Lead with 17+ years in tech, specializing in data strategy, __ETL__, __orchestration__, and monitoring. I use tools like __GCP__ (Functions, __BigQuery__, Storage), __SQL__ (__Postgres__, MySQL), NoSQL (__MongoDB__) and __Python__ (__PySpark__, __Pandas__) to ensure data quality, integrity and accessibility.
+
+<!-- I'm a __data engineer__, web developer, and tech lead with over 17 years of experience in the technology market. Deep expertise in __SQL__, __Python__, __GCP__ and modern web technologies. Since moving to Hamburg, I've been looking for a new challenge where I can leverage my technical expertise, leadership skills, and international experience. -->
 
 ## Personal Development and Relocation Preparation
 
 Following 17 years of professional experience in software development, I dedicated a period to personal growth, exploring new fields such as Audio Engineering and Japanese culture, while preparing for my relocation to Germany.
 
-- Germany VISA Preparation | Feb 2025 - Sep 2025;
-- German Studies in Goethe-Institut in Hamburg, Germany | Feb 2025 - Mar 2025;
-- Japanese Culture and Language Studies in Kosaka, Japan | Oct 2024;
-- Audio Engineering Studies in São Paulo, Brazil | Jul 2024 - Aug 2024;
+- Germany VISA Preparation and Relocation | 02.2025 - 09.2025;
+- German Studies in Goethe-Institut in Hamburg, Germany | 02.2025 - 03.2025;
+- Japanese Culture and Language Studies in Kosaka, Japan | 10.2024;
+- Audio Engineering Studies in São Paulo, Brazil | 07.2024 - 08.2024;
 
 ## Experience
 

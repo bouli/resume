@@ -10,13 +10,13 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Erfahrener __Data Engineer__, Webentwickler und Tech Lead mit über 17 Jahren Erfahrung im Technologiemarkt. Tiefe Expertise in __SQL__, __Python__, __GCP__ und modernen Webtechnologien. Seit meinem Umzug nach Hamburg suche ich eine neue Herausforderung, bei der ich meine technische Kompetenz, Führungsstärke und internationale Erfahrung einbringen kann.
+Ich bin erfahrener __Data Engineer__, Webentwickler und Tech Lead mit über 17 Jahren Erfahrung in der Technologiebranche. Ich bin auf Datenstrategie, __ETL__, __Datenorchestrierung__ und Monitoring spezialisiert. Dabei setze ich Tools wie __GCP__ (Functions, __BigQuery__, Storage), __SQL__ (__Postgres__, MySQL), NoSQL (__MongoDB__) und __Python__ (__PySpark__, __Pandas__) ein, um die Datenqualität, -integrität und -zugänglichkeit sicherzustellen.
 
 ## Persönliche Weiterentwicklung und Umzugsvorbereitung
 
 Nach 17 Jahren Berufserfahrung in der Softwareentwicklung habe ich mir eine Zeit der persönlichen Weiterentwicklung gewidmet und neue Bereiche wie Audiotechnik und japanische Kultur erkundet, während ich mich auf meinen Umzug nach Deutschland vorbereitete.
 
-- Vorbereitung auf das Visum für Deutschland - Feb.-Sep. 2025;
+- Vorbereitung auf das Visum für und Umzug nach Deutschland - Feb.-Sep. 2025;
 - Deutschkurs am Goethe-Institut - Hamburg, Deutschland - Feb.-März 2025;
 - Japanische Kultur- und Sprachkurs an der Akita Inaka Schule - Kosaka, Japan - Okt. 2024;
 - Kurs „Grundlagen der Tontechnik und digitale Mischpulte“ am IAV - Instituto de Áudio e Vídeo - São Paulo, Brasilien - Juli-Aug. 2024;
