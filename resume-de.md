@@ -147,7 +147,7 @@ Informationstechnologie
 
 - Portugiesisch: Muttersprachen | C2
 - Englisch und Spanisch: Fließend | C1
-- Deutsch, Französisch und Italienisch: Basis | A2
+- Deutsch, Französisch und Italienisch: Basis | A2 _(ich studiere derzeit Deutsch an der `Volkshochschule`)_
 
 ## Weiterbildungen
 

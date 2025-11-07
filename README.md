@@ -148,7 +148,7 @@ Information Technology
 
 - Brazilian Portuguese: Native | C2
 - English and Spanish: Fluent | C1
-- German, French and Italian: Basic | A2
+- German, French and Italian: Basic | A2 <span>_(currently studying German at the `Volkshochschule`)_</span>
 
 ## Other courses
 

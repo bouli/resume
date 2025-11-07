@@ -116,7 +116,7 @@ h4 em {
     font-weight: bold;
 }
 
-h3 em {
+h3 em, span em {
     font-size: 80%;
 }
 
