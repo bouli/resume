@@ -1,0 +1,12 @@
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font-size: 0.8em;
+    line-height: 1;
+    margin: 40px 0;
+}
+
+h2 + ul , h2 + h4, h2 + p {
+    display: block;
+    padding-top: 2px;
+}
