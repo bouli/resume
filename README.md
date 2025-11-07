@@ -149,3 +149,12 @@ Information Technology
 - Brazilian Portuguese: Native | C2
 - English and Spanish: Fluent | C1
 - German, French and Italian: Basic | A2
+
+## Other courses
+
+#### <span>IBM - Hands-on Introduction to Linux Commands and Shell Scripting - `01.2025` [_(view certificate)_](https://www.coursera.org/account/accomplishments/verify/HVW8NUW0PBQY)</span>
+#### <span>IBM - Databases and SQL for Data Science with Python - `01.2025` [_(view certificate)_](https://www.coursera.org/account/accomplishments/verify/QFSYW8VHMTO5)</span>
+#### <span>IBM - Python Project for Data Engineering - `01.2025` [_(view certificate)_](https://www.coursera.org/account/accomplishments/verify/2CZR1WRU7RAU)</span>
+#### <span>IBM - Python for Data Science, AI & Development - `01.2025` [_(view certificate)_](https://www.coursera.org/account/accomplishments/verify/FPRXGZ764E32)</span>
+#### <span>IBM - Introduction to Relational Databases (RDBMS) - `01.2025` [_(view certificate)_](https://www.coursera.org/account/accomplishments/verify/4AL1WZ17KO82)</span>
+#### <span>IBM - Introduction to Data Engineering - `12.2024` [_(view certificate)_](https://www.coursera.org/account/accomplishments/verify/D095YUW10140)</span>

@@ -12,14 +12,15 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 Ich bin erfahrener __Data Engineer__, Webentwickler und Tech Lead mit über 17 Jahren Erfahrung in der Technologiebranche. Ich bin auf Datenstrategie, __ETL__, __Datenorchestrierung__ und Monitoring spezialisiert. Dabei setze ich Tools wie __GCP__ (Functions, __BigQuery__, Storage), __SQL__ (__Postgres__, MySQL), NoSQL (__MongoDB__) und __Python__ (__PySpark__, __Pandas__) ein, um die Datenqualität, -integrität und -zugänglichkeit sicherzustellen.
 
-## Persönliche Weiterentwicklung und Umzugsvorbereitung
+## Persönlichkeitsentwicklung und Auswanderung
 
 Nach 17 Jahren Berufserfahrung in der Softwareentwicklung habe ich mir eine Zeit der persönlichen Weiterentwicklung gewidmet und neue Bereiche wie Audiotechnik und japanische Kultur erkundet, während ich mich auf meinen Umzug nach Deutschland vorbereitete.
 
-- Vorbereitung auf das Visum für und Umzug nach Deutschland - Feb.-Sep. 2025;
-- Deutschkurs am Goethe-Institut - Hamburg, Deutschland - Feb.-März 2025;
-- Japanische Kultur- und Sprachkurs an der Akita Inaka Schule - Kosaka, Japan - Okt. 2024;
-- Kurs „Grundlagen der Tontechnik und digitale Mischpulte“ am IAV - Instituto de Áudio e Vídeo - São Paulo, Brasilien - Juli-Aug. 2024;
+- <span>Vorbereitung auf das Visum für und Umzug nach Deutschland - 02.2025 - 09.2025</span>
+- <span>Deutschkurs am Goethe-Institut - Hamburg, Deutschland - 02.2025 - 03.2025</span>
+- <span>Japanische Kultur- und Sprachkurs an der Akita Inaka Schule - Kosaka, Japan - 10.2024</span>
+- <span>Kurs „Grundlagen der Tontechnik und digitale Mischpulte“ am IAV - Instituto de Áudio e Vídeo - São Paulo, Brasilien - 07.2024 - 08.2024</span>
+
 
 ## Berufserfahrung
 
@@ -47,11 +48,11 @@ hand -->
 
 ### <span>IT Direktor, [TECHO](https://www.techo.org/) - `06.2016 - 10.2018` _(2 Jahren 5 Monate)_</span> <span><span> | </span>Santiago, Chile</span>
 <!-- Thinking about say something about the place -->
-• Leitung der Technologiestrategie und des Systemmanagements in 21 Ländern Lateinamerikas, der Karibik und den USA;
-• Entwicklung der 10-Jahres-Strategie für TECHO Internacional;
-• Neugestaltung der Systeme für das Finanzmanagement zur Steigerung der Effizienz;
-• Technischer Key Account für TECHO auf internationalen Messen in Chile, GB und den Niederlanden;
-• Implementierung von Cloud-Computing-Lösungen zur Steigerung der organisatorischen Effizienz;
+- Leitung der Technologiestrategie und des Systemmanagements in 21 Ländern Lateinamerikas, der Karibik und den USA;
+- Entwicklung der 10-Jahres-Strategie für TECHO Internacional;
+- Neugestaltung der Systeme für das Finanzmanagement zur Steigerung der Effizienz;
+- Technischer Key Account für TECHO auf internationalen Messen in Chile, GB und den Niederlanden;
+- Implementierung von Cloud-Computing-Lösungen zur Steigerung der organisatorischen Effizienz;
 
 > Tech stack: `GCP`, `Python`, `PHP`, `Linux`, `Mysql`, `Wordpress`.
 
@@ -59,10 +60,10 @@ hand -->
 ### <span>Project Manager, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `10.2024 - 04.2016` _(1 Jahr 7 Monate)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
 <!-- Thinking about say something about the place -->
-• KeyPlayer für die Optimierung von Online-Kampagnen, Leitung div. Technikteams für namhafte Kunden;
-• Optimierung der Lieferzeiten von 10 auf 2 Tage, Optimierung der betriebliche Effizienz von Jaguar Land Rover;
-• Beaufsichtigung der Website-Entwicklung für renommierte Marken wie Teto Brasil und PatBo , Sicherstellung des hochwertigen digitalen Erlebens;
-• Technische Leitung für div. Teams bei Online-Werbekampagnen und Webentwicklungs-Initiativen;
+- KeyPlayer für die Optimierung von Online-Kampagnen, Leitung div. Technikteams für namhafte Kunden;
+- Optimierung der Lieferzeiten von 10 auf 2 Tage, Optimierung der betriebliche Effizienz von Jaguar Land Rover;
+- Beaufsichtigung der Website-Entwicklung für renommierte Marken wie Teto Brasil und PatBo , Sicherstellung des hochwertigen digitalen Erlebens;
+- Technische Leitung für div. Teams bei Online-Werbekampagnen und Webentwicklungs-Initiativen;
 
 > Tech stack: `PHP`, `MySQL`, `HTML5`, `Adobe Flash`, `Wordpress`, `Magento`, `GA4`.
 
@@ -147,3 +148,12 @@ Informationstechnologie
 - Portugiesisch: Muttersprachen | C2
 - Englisch und Spanisch: Fließend | C1
 - Deutsch, Französisch und Italienisch: Basis | A2
+
+## Weiterbildungen
+
+#### <span>IBM - Hands-on Introduction to Linux Commands and Shell Scripting - `01.2025` [_(Ansicht Zertifikat)_](https://www.coursera.org/account/accomplishments/verify/HVW8NUW0PBQY)</span>
+#### <span>IBM - Databases and SQL for Data Science with Python - `01.2025` [_(Ansicht Zertifikat)_](https://www.coursera.org/account/accomplishments/verify/QFSYW8VHMTO5)</span>
+#### <span>IBM - Python Project for Data Engineering - `01.2025` [_(Ansicht Zertifikat)_](https://www.coursera.org/account/accomplishments/verify/2CZR1WRU7RAU)</span>
+#### <span>IBM - Python for Data Science, AI & Development - `01.2025` [_(Ansicht Zertifikat)_](https://www.coursera.org/account/accomplishments/verify/FPRXGZ764E32)</span>
+#### <span>IBM - Introduction to Relational Databases (RDBMS) - `01.2025` [_(Ansicht Zertifikat)_](https://www.coursera.org/account/accomplishments/verify/4AL1WZ17KO82)</span>
+#### <span>IBM - Introduction to Data Engineering - `12.2024` [_(Ansicht Zertifikat)_](https://www.coursera.org/account/accomplishments/verify/D095YUW10140)</span>

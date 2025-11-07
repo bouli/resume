@@ -37,6 +37,19 @@ h3 {
     display: flex;
     justify-content: space-between;
 }
+
+h4 {
+    font-size: 90%;
+    margin: 0.1em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 span {
+    font-weight: normal;
+}
+
 p {
     margin: 0 0 0.5em 0;
     padding: 0;
@@ -92,6 +105,15 @@ code {
 
 h3 code {
     font-size: 90%;
+}
+
+h4 code {
+    font-weight: normal;
+}
+
+h4 em {
+    font-size: 80%;
+    font-weight: bold;
 }
 
 h3 em {
