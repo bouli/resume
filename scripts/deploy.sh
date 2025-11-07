@@ -15,6 +15,10 @@ mkdir $TMP_DIR/en
 cp README.md $TMP_DIR/en/resume.md
 cp resume.css $TMP_DIR/en/resume.css
 
+# CREATE RESUME FOR WEB WITH NO SENSITIVE DATA
+resume-markdown build $TMP_DIR/en/resume.md --no-pdf
+cp $TMP_DIR/en/resume.html $TMP_DIR/en/resume-for-web.html
+
 # UPDATE VARS
 sed -i -e "s/$TELEPHONE_TEMPLATE/$TELEPHONE/g" $TMP_DIR/en/resume.md
 sed -i -e "s/$ADDRESS_TEMPLATE/$ADDRESS/g" $TMP_DIR/en/resume.md
@@ -33,6 +37,10 @@ mkdir $TMP_DIR/de
 cp resume-de.md $TMP_DIR/de/resume.md
 cp resume.css $TMP_DIR/de/resume.css
 
+# CREATE RESUME FOR WEB WITH NO SENSITIVE DATA
+resume-markdown build $TMP_DIR/de/resume.md --no-pdf
+cp $TMP_DIR/de/resume.html $TMP_DIR/de/resume-for-web.html
+
 # UPDATE VARS
 sed -i -e "s/$TELEPHONE_TEMPLATE/$TELEPHONE/g" $TMP_DIR/de/resume.md
 sed -i -e "s/$ADDRESS_TEMPLATE/$ADDRESS/g" $TMP_DIR/de/resume.md
@@ -50,6 +58,8 @@ resume-markdown build $TMP_DIR/de/with-photo/resume.md --no-pdf
 mkdir $OUTPUT_DIR
 cp $TMP_DIR/en/resume.html $OUTPUT_DIR/resume-en.html
 cp $TMP_DIR/de/resume.html $OUTPUT_DIR/resume-de.html
+cp $TMP_DIR/en/resume-for-web.html $OUTPUT_DIR/resume-for-web-en.html
+cp $TMP_DIR/de/resume-for-web.html $OUTPUT_DIR/resume-for-web-de.html
 cp $TMP_DIR/en/with-photo/resume.html $OUTPUT_DIR/resume-en-with-photo.html
 cp $TMP_DIR/de/with-photo/resume.html $OUTPUT_DIR/resume-de-with-photo.html
 cp photo.jpeg $OUTPUT_DIR/photo.jpeg
