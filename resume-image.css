@@ -15,6 +15,7 @@ h1 + ul {
 h1 + ul > li {
     display: block;
     text-align: right;
+    line-height: 1.2;
 }
 
 @page {
@@ -22,4 +23,30 @@ h1 + ul > li {
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
     size: letter;
     margin: 0.4in 0.8in;
+}
+
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font-size: 0.8em;
+    line-height: 1;
+    margin: 40px 0;
+}
+
+h2 + ul , h2 + h4, h2 + p {
+    display: block;
+    padding-top: 2px;
+}
+
+h1 + ul + p {
+    padding-top: 2px;
+    text-align: justify;
+}
+
+@media print {
+    .page-breaker {
+        height: 20px;
+        clear: both;
+        display: block;
+    }
 }

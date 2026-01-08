@@ -32,7 +32,7 @@ uvx resume-markdown build $TMP_DIR/en/resume.md --no-pdf
 # BUILD RESUME WITH PHOTO
 mkdir $TMP_DIR/en/with-photo/
 echo "![Cesar Cardoso](photo.jpeg)" | cat - $TMP_DIR/en/resume.md > $TMP_DIR/en/with-photo/resume.md
-cat resume.css | cat - resume-image.css > $TMP_DIR/en/with-photo/resume.css
+cat resume.css | cat - resume-image.css  > $TMP_DIR/en/with-photo/resume.css
 uvx resume-markdown build $TMP_DIR/en/with-photo/resume.md --no-pdf
 
 # BUILD RESUME IN GERMAN
@@ -54,7 +54,7 @@ uvx resume-markdown build $TMP_DIR/de/resume.md --no-pdf
 # BUILD RESUME WITH PHOTO
 mkdir $TMP_DIR/de/with-photo/
 echo "![Cesar Cardoso](photo.jpeg)" | cat - $TMP_DIR/de/resume.md > $TMP_DIR/de/with-photo/resume.md
-cat resume.css | cat - resume-image.css | cat - resume-de-hack.css > $TMP_DIR/de/with-photo/resume.css
+cat resume.css | cat - resume-image.css > $TMP_DIR/de/with-photo/resume.css
 uvx resume-markdown build $TMP_DIR/de/with-photo/resume.md --no-pdf
 
 

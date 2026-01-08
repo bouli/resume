@@ -12,23 +12,24 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 I'm a __Data Engineer__, Web Developer, and Tech Lead with 17+ years in tech, specializing in data strategy, __ETL__, __orchestration__, and monitoring. I use tools like __GCP__ (Functions, __BigQuery__, Storage), __SQL__ (__Postgres__, MySQL), NoSQL (__MongoDB__) and __Python__ (__PySpark__, __Pandas__) to ensure data quality, integrity and accessibility.
 
-<!-- I'm a __data engineer__, web developer, and tech lead with over 17 years of experience in the technology market. Deep expertise in __SQL__, __Python__, __GCP__ and modern web technologies. Since moving to Hamburg, I've been looking for a new challenge where I can leverage my technical expertise, leadership skills, and international experience. -->
+## Experience
 
-## Personal Development and Relocation Preparation
+### <span>Data Engineer Volunteer, [Parceiros Pela Amazônia - PPA](https://ppa.org.br/) - `12.2025 - Now`</span> <span><span> | </span>(remote)</span>
+- Transforming data collection processes into structured and stable pipelines; (currently)
+
+> Tech stack: `GCP` (`Functions`, `BigQuery`, `Dataform`, `Looker`), `SQL` und `Python` (`Pandas`, `NumPy`).
+
+### <span>Personal Development and Relocation Preparation - `07.2024 - 09.2025` _(1 Year 2 Months)_</span><span><span> | </span>Brazil, Japan, Germany</span>
 
 Following 17 years of professional experience in software development, I dedicated a period to personal growth, exploring new fields such as Audio Engineering and Japanese culture, while preparing for my relocation to Germany.
 
 - Germany VISA `(Chancenkarte - § 20a AufenthG)` Preparation and Relocation | 02.2025 - 09.2025;
-- German Studies in Goethe-Institut in Hamburg, Germany | 02.2025 - 03.2025;
+- German Studies in Goethe-Institut in Hamburg for A2-Zertifikat, Germany | 02.2025 - 03.2025;
+- Data Engineering Studies in [Coursera](https://www.coursera.org/learner/cesarcardoso) | 12.2024 - 01.2025
 - Japanese Culture and Language Studies in Kosaka, Japan | 10.2024;
 - Audio Engineering Studies in São Paulo, Brazil | 07.2024 - 08.2024;
 
-## Experience
-
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
 ### <span>Lead Data Engineer, [Laboratoria](https://laboratoria.la/) - `07.2021 - 06.2024` _(3 yrs)_</span> <span><span> | </span>Lima, Perú (remote)</span>
-<!-- Thinking about say something about the place -->
 - Transformed data collection processes into structured and stable pipelines, enhancing operational efficiency;
 - Integrated multiple new data sources into the data lake, expanding the organization's data capabilities;
 - Collaborated with C-Suite to establish OKRs, improving data reporting to donors and stakeholders;
@@ -38,7 +39,6 @@ hand -->
 
 
 ### <span>Lead Software Engineer, [Laboratoria](https://laboratoria.la/) - `10.2018 - 07.2021` _(2 yrs 10 mos)_</span> <span><span> | </span>Lima, Perú (remote)</span>
-<!-- Thinking about say something about the place -->
 - Designed and managed teams to develop systems supporting the entire student journey, from application to graduation;
 - Facilitated integration among stakeholders to achieve shared technical goals, enhancing collaboration;
 - Led the transformation of physical teams into effective remote teams, boosting productivity;
@@ -48,7 +48,6 @@ hand -->
 
 
 ### <span>IT Director, [TECHO](https://www.techo.org/) - `06.2016 - 10.2018` _(2 yrs 5 mos)_</span> <span><span> | </span>Santiago, Chile</span>
-<!-- Thinking about say something about the place -->
 - Spearheaded technology strategy and systems management across 21 countries in Latin America, the Caribbean, and the USA;
 - Designed a comprehensive 10-year digital transformation strategy for TECHO Internacional;
 - Redesigned central systems for finance and volunteer management to enhance operational efficiency;
@@ -58,9 +57,8 @@ hand -->
 > Tech stack: `GCP`, `Python`, `PHP`, `Linux`, `Mysql`, `Wordpress`.
 
 
-### <span>Project Manager, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `10.2024 - 04.2016` _(1 yrs 7 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
+### <span>Project Manager, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `10.2014 - 04.2016` _(1 yrs 7 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - Played a pivotal role in optimizing online campaign processes and managing tech teams for high-profile clients;
 - Improved campaign delivery time from 10 days to just 2 days, significantly enhancing operational efficiency for Jaguar Land Rover;
 - Oversaw website development for notable brands, including Teto Brasil and Donato Viagens, ensuring high-quality digital experiences;
@@ -70,14 +68,12 @@ hand -->
 
 ### <span>Software Engineer, [ERPFlex](https://erpflex.com.br/) - `08.2012 - 10.2024` _(2 yrs 3 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - ERP System development using PHP, Adobe Flex, MySql.
 
 > Tech stack: `PHP`, `Adobe Flex`, `MySql`.
-
+<span class="page-breaker"></span>
 ### <span>Software Engineer, [Alfaiataria Digital](https://www.linkedin.com/company/alfaiataria-digital/posts/?feedView=all) - `02.2012 - 08.2012` _(7 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - System development using PHP, MySql, WordPress and FaceBook integration.
 
 > Tech stack: `PHP`, `MySql`, `Wordpress`.
@@ -85,7 +81,6 @@ hand -->
 
 ### <span>IT Director (Co-Founer), [Incandescente](https://www.incandescente.com.br/) - `07.2009 - 02.2012` _(2 yrs 8 mos)_</span> <span><span> | </span>São Bernardo do Campo, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - Responsible for technology strategy, product design and development.
 
 > Tech stack: `PHP`, `MySql`, `Adobe Flex`.
@@ -93,7 +88,6 @@ hand -->
 
 ### <span>Software Engineer, [RAPP Brasil](https://www.rapp.com/) - `08.2011 - 10.2011` _(3 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - System development using PHP, MySql, WordPress and FaceBook integration.
 
 > Tech stack: `PHP`, `MySql`, `Wordpress`.
@@ -101,7 +95,6 @@ hand -->
 
 ### <span>Software Engineer, [ERPFlex](https://erpflex.com.br/) - `01.2010 - 07.2011` _(1 yrs 7 mos)_</span> <span><span> | </span>São Paulo, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - ERP System development using PHP, Adobe Flex, MySql.
 
 > Tech stack: `PHP`, `Adobe Flex`, `MySql`.
@@ -109,7 +102,6 @@ hand -->
 
 ### <span>Web Developer, [Click;Pronto](https://www.clickpronto.com.br/) - `05.2008 - 12.2009` _(1 yrs 8 mos)_</span> <span><span> | </span>Santo André, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - ERP System development using PHP, ASP.NET, CSS, Javascript, Flash, Ajax, MySql, MS SQL Server.
 
 > Tech stack: `PHP`, `CSS`, `Javascript`, `Flash`, `Ajax`, `ASP.NET`, `MySql`, `MS SQL Server`.
@@ -117,7 +109,6 @@ hand -->
 
 ### <span>Intern Programmer, [OIC](https://oic.com.br/) - `01.2008 - 05.2008` _(5 mos)_</span> <span><span> | </span>São Bernardo do Campo, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - System development using ASP.NET, PHP, CSS, Javascript, Adobe Flash, Ajax, Oracle.
 
 > Tech stack: `ASP.NET`, `PHP`, `CSS`, `Javascript`, `Adobe Flash`, `Ajax`, `Oracle`.
@@ -125,7 +116,6 @@ hand -->
 
 ### <span>Intern Web Designer, [Click;Pronto](https://www.clickpronto.com.br/) - `06.2007 - 12.2007` _(7 mos)_</span> <span><span> | </span>Santo André, Brazil</span>
 
-<!-- Thinking about say something about the place -->
 - Website Designing, photo editing, web development using CMS Joomla, PHP, HTML, CSS, Javascript, Adobe Flash.
 
 > Tech stack: `PHP`, `CSS`, `Javascript`, `Adobe Flash`, `Joomla`.
@@ -148,7 +138,7 @@ Information Technology
 
 - Brazilian Portuguese: Native | C2
 - English and Spanish: Fluent | C1
-- German, French and Italian: Basic | A2 <span>_(currently studying German at the `Volkshochschule`)_</span>
+- German, French and Italian: Basic | A2
 
 ## Other courses
 

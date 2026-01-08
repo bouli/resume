@@ -75,9 +75,6 @@ h1 + ul > li > a {
 h1 + ul > li:after {
     content: "  ";
 }
-h1 + ul > li:last-child:after {
-    content: "";
-}
 /* p immediately after contact list = summary */
 h1 + ul + p {
     margin: 1em 0;
@@ -180,4 +177,8 @@ img {
         box-shadow: none;
         -webkit-box-shadow: none;
     }
+}
+
+.page-breaker {
+    display: none;
 }
