@@ -18,11 +18,15 @@ mkdir $TMP_DIR/en
 cp README.md $TMP_DIR/en/resume.md
 cp resume.css $TMP_DIR/en/resume.css
 
+# UPDATE VARS
+sed -i -e "s/$TELEPHONE_TEMPLATE/- ✉️ <hello@cesarcardoso.cc>/g" $TMP_DIR/en/resume.md
+
 # CREATE RESUME FOR WEB WITH NO SENSITIVE DATA
 uvx resume-markdown build $TMP_DIR/en/resume.md --no-pdf
 cp $TMP_DIR/en/resume.html $TMP_DIR/en/resume-for-web.html
 
 # UPDATE VARS
+cp README.md $TMP_DIR/en/resume.md
 sed -i -e "s/$TELEPHONE_TEMPLATE/$TELEPHONE/g" $TMP_DIR/en/resume.md
 sed -i -e "s/$ADDRESS_TEMPLATE/$ADDRESS/g" $TMP_DIR/en/resume.md
 sed -i -e "s/$EMAIL_TEMPLATE/$EMAIL/g" $TMP_DIR/en/resume.md
@@ -40,9 +44,14 @@ mkdir $TMP_DIR/de
 cp resume-de.md $TMP_DIR/de/resume.md
 cp resume.css $TMP_DIR/de/resume.css
 
+# UPDATE VARS
+sed -i -e "s/$TELEPHONE_TEMPLATE/- ✉️ <hello@cesarcardoso.cc>/g" $TMP_DIR/de/resume.md
+
 # CREATE RESUME FOR WEB WITH NO SENSITIVE DATA
 uvx resume-markdown build $TMP_DIR/de/resume.md --no-pdf
 cp $TMP_DIR/de/resume.html $TMP_DIR/de/resume-for-web.html
+
+cp resume-de.md $TMP_DIR/de/resume.md
 
 # UPDATE VARS
 sed -i -e "s/$TELEPHONE_TEMPLATE/$TELEPHONE/g" $TMP_DIR/de/resume.md

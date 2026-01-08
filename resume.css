@@ -78,6 +78,7 @@ h1 + ul > li:after {
 /* p immediately after contact list = summary */
 h1 + ul + p {
     margin: 1em 0;
+    text-align: justify;
 }
 
 /* Cesar Cardoso - Style - BEGIN */
