@@ -6,8 +6,7 @@ line. It is intended to be used for contact details -->
 <!-- - ✉️ <email@some-email-server.com> -->
 <!-- - 📞 +00-0000-0000 -->
 - 🌐 [http://cesarcardoso.cc](http://cesarcardoso.cc)
-<!-- - 🏠 My Address Street, 0 - 00000 - City, CC -->
-
+- 🪪 ✓ Arbeitsvisum DE 📍 20099 - Hamburg, DE
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 Ich bin erfahrener __Data Engineer__, Webentwickler und Tech Lead mit über 17 Jahren Erfahrung in der Technologiebranche. Ich bin auf Datenstrategie, __ETL__, __Datenorchestrierung__ und Monitoring spezialisiert. Dabei setze ich Tools wie __GCP__ (Functions, __BigQuery__, Storage), __SQL__ (__Postgres__, MySQL), NoSQL (__MongoDB__) und __Python__ (__PySpark__, __Pandas__) ein, um die Datenqualität, -integrität und -zugänglichkeit sicherzustellen.
@@ -16,7 +15,7 @@ Ich bin erfahrener __Data Engineer__, Webentwickler und Tech Lead mit über 17 J
 
 Nach 17 Jahren Berufserfahrung in der Softwareentwicklung habe ich mir eine Zeit der persönlichen Weiterentwicklung gewidmet und neue Bereiche wie Audiotechnik und japanische Kultur erkundet, während ich mich auf meinen Umzug nach Deutschland vorbereitete.
 
-- <span>Vorbereitung auf das Visum für und Umzug nach Deutschland - 02.2025 - 09.2025</span>
+- <span>Vorbereitung auf das Visum `(Chancenkarte - § 20a AufenthG)` für und Umzug nach Deutschland - 02.2025 - 09.2025</span>
 - <span>Deutschkurs am Goethe-Institut - Hamburg, Deutschland - 02.2025 - 03.2025</span>
 - <span>Japanische Kultur- und Sprachkurs an der Akita Inaka Schule - Kosaka, Japan - 10.2024</span>
 - <span>Kurs „Grundlagen der Tontechnik und digitale Mischpulte“ am IAV - Instituto de Áudio e Vídeo - São Paulo, Brasilien - 07.2024 - 08.2024</span>

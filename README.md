@@ -6,7 +6,7 @@ line. It is intended to be used for contact details -->
 <!-- - ✉️ <email@some-email-server.com> -->
 <!-- - 📞 +00-0000-0000 -->
 - 🌐 [http://cesarcardoso.cc](http://cesarcardoso.cc)
-<!-- - 🏠 My Address Street, 0 - 00000 - City, CC -->
+- 🪪 ✓ German Work Permit 📍 20099 - Hamburg, DE
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -18,7 +18,7 @@ I'm a __Data Engineer__, Web Developer, and Tech Lead with 17+ years in tech, sp
 
 Following 17 years of professional experience in software development, I dedicated a period to personal growth, exploring new fields such as Audio Engineering and Japanese culture, while preparing for my relocation to Germany.
 
-- Germany VISA Preparation and Relocation | 02.2025 - 09.2025;
+- Germany VISA `(Chancenkarte - § 20a AufenthG)` Preparation and Relocation | 02.2025 - 09.2025;
 - German Studies in Goethe-Institut in Hamburg, Germany | 02.2025 - 03.2025;
 - Japanese Culture and Language Studies in Kosaka, Japan | 10.2024;
 - Audio Engineering Studies in São Paulo, Brazil | 07.2024 - 08.2024;
