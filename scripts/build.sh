@@ -66,6 +66,26 @@ echo "![Cesar Cardoso](photo.jpeg)" | cat - $TMP_DIR/de/resume.md > $TMP_DIR/de/
 cat resume.css | cat - resume-image.css > $TMP_DIR/de/with-photo/resume.css
 uvx resume-markdown build $TMP_DIR/de/with-photo/resume.md --no-pdf
 
+# BUILD THE COVER LETTERS
+python3 cover-letter.py
+# UPDATE VARS
+echo "![Cesar Cardoso](photo.jpeg)" | cat - ./cover-letter.md > $TMP_DIR/en/cover-letter.md
+sed -i -e "s/$TELEPHONE_TEMPLATE/$TELEPHONE/g" $TMP_DIR/en/cover-letter.md
+sed -i -e "s/$ADDRESS_TEMPLATE/$ADDRESS/g" $TMP_DIR/en/cover-letter.md
+sed -i -e "s/$EMAIL_TEMPLATE/$EMAIL/g" $TMP_DIR/en/cover-letter.md
+
+TMP_COVER_LETTERS=$TMP_DIR/cover-letters
+for cover_letter in "$TMP_COVER_LETTERS"/*.md
+do
+    sed -i -e "s/$TELEPHONE_TEMPLATE/$TELEPHONE/g" $cover_letter
+    sed -i -e "s/$ADDRESS_TEMPLATE/$ADDRESS/g" $cover_letter
+    sed -i -e "s/$EMAIL_TEMPLATE/$EMAIL/g" $cover_letter
+    uvx resume-markdown build $cover_letter --no-pdf
+done
+
+#cp cover-letter.css $TMP_DIR/en/cover-letter.css
+#uvx resume-markdown build $TMP_DIR/en/cover-letter.md --no-pdf
+
 
 mkdir $OUTPUT_DIR
 cp $TMP_DIR/en/resume.html $OUTPUT_DIR/resume-en.html
@@ -75,3 +95,9 @@ cp $TMP_DIR/de/resume-for-web.html $OUTPUT_DIR/resume-for-web-de.html
 cp $TMP_DIR/en/with-photo/resume.html $OUTPUT_DIR/resume-en-with-photo.html
 cp $TMP_DIR/de/with-photo/resume.html $OUTPUT_DIR/resume-de-with-photo.html
 cp photo.jpeg $OUTPUT_DIR/photo.jpeg
+
+for cover_letter in "$TMP_COVER_LETTERS"/*.html
+do
+    cp $cover_letter $OUTPUT_DIR/$(basename $cover_letter)
+done
+#cp $TMP_DIR/en/cover-letter.html $OUTPUT_DIR/cover-letter.html
