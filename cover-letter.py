@@ -20,6 +20,7 @@ def main():
     for coverletter in coverletters:
         coverletter_final = coverletter_template
         company_name = coverletter.split(".")[0].split("-")[1]
+        coverletter_date = coverletter.split(".")[0].split("-")[0]
         with open(os.path.join(coverletters_folder_source,coverletter),"r") as cl_f:
             coverletter_content = cl_f.read()
         coverletter_content = coverletter_content.replace("\n","<br>\n")
@@ -29,7 +30,7 @@ def main():
         coverletter_final = add_photo(coverletter_final)
         for coverletter_highlight in coverletter_highlights:
             coverletter_final = coverletter_final.replace(f"{coverletter_highlight}",f"__{coverletter_highlight}__")
-        date = datetime.datetime.now().strftime("%Y%m%d")
+        date = coverletter_date #datetime.datetime.now().strftime("%Y%m%d")
         base_file_name = f"{date}-cover-letter-to-{company_name.replace(" ","-")}"
         with open(os.path.join(coverletters_folder_destiny,f"{base_file_name}.md"),"w+") as cl_f:
             cl_f.write(coverletter_final)
