@@ -9,11 +9,37 @@ line. It is intended to be used for contact details -->
 - 🪪 ✓ Arbeitsvisum DE 📍 20099 - Hamburg, DE
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Ich bin erfahrener __Data Engineer__, Webentwickler und Tech Lead mit über 17 Jahren Erfahrung in der Technologiebranche. Ich bin auf Datenstrategie, __ETL__, __Datenorchestrierung__ und Monitoring spezialisiert. Dabei setze ich Tools wie __GCP__ (Functions, __BigQuery__, Storage), __SQL__ (__Postgres__, MySQL), NoSQL (__MongoDB__) und __Python__ (__PySpark__, __Pandas__) ein, um die Datenqualität, -integrität und -zugänglichkeit sicherzustellen.
+Ich bin **Platform Team Lead** und arbeite zugleich praxisnah als Data-/Backend-Engineer mit über 17 Jahren Erfahrung in der Technologiebranche. Ich entwickle und verantworte Systeme rund um Datenplattformen, APIs, Integrationen, Observability und Automatisierung. Aktuell liegt mein Schwerpunkt auf der Infrastruktur für den Energiemarkt bei **suena energy**.
+
+Mir sind klare Verantwortlichkeiten, zuverlässige Datenpipelines, pragmatische Architektur und die Unterstützung von Teams dabei wichtig, aus unübersichtlichen operativen Daten vertrauenswürdige Systeme zu machen.
+
 
 ## Berufserfahrung
 
-### <span>Data Engineer Freiwilliger, [Parceiros Pela Amazônia - PPA](https://ppa.org.br/) - `12.2025 - dato`</span> <span><span> | </span>(remote)</span>
+### <span>Platform Engineering Lead, [suena energy](https://suena.energy/) - `07.2026 - now`</span> <span><span> | </span>Hamburg, Germany</span>
+
+- Leitung des Platform-Teams als Player-Coach mit einer Kombination aus Personalführung, Delivery Management, Architekturverantwortung und praktischer Backend-Entwicklung;
+- Verantwortung für den Ausbau und die Weiterentwicklung der unternehmensweiten Plattformfunktionen in den Bereichen APIs, Backend-Services, Datenbanken, externe Integrationen, Observability und Health Monitoring;
+- Leitung der architektonischen Entkopplung von APIs, Energiemarktschnittstellen und Abrechnungsprozessen aus einem bestehenden Monorepo in unabhängig wartbare Services;
+- Konzeption der Datenplattformstrategie des Unternehmens, bei der fachliche Datenbanken über eine gemeinsame Analytics-Schicht verbunden werden, ohne die klare Datenverantwortung der einzelnen Abteilungen aufzugeben;
+- Unterstützung der Teams aus Data Science, Trading, Operations und Finance durch zuverlässige APIs, Datenpipelines, interne Tools und Drittanbieterintegrationen;
+- Etablierung von Engineering-Standards, Sprint-Prozessen, technischen Prioritäten und klaren Teamverantwortlichkeiten sowie Rekrutierung und Mentoring von Backend-Engineers;
+- Mitwirkung an einer unternehmensweiten Business-Intelligence- und Reporting-Plattform, die isolierte Tabellenkalkulationen und manuelle Berichtsprozesse ersetzen soll;
+- Einsatz KI-gestützter Engineering-Workflows in der Softwareentwicklung, bei technischen Analysen, im Entscheidungsmanagement und beim unternehmensweiten Wissensaustausch;
+
+
+> Tech stack: `Python`, `Django`, `PostgreSQL`, `AWS` (`Lambda`, `CloudWatch`, `RDS`, `S3`, `Secrets Manager`), `Docker`, `Grafana`, `REST APIs`, `Git`, `Jira`, and integrations with energy-market and asset-management platforms.
+
+### <span>Backend Engineer, [suena energy](https://suena.energy/) - `02.2026 - 06.2026` _(4 Monaten)_</span> <span><span> | </span>Hamburg, Germany</span>
+
+- Entwicklung eines zentralisierten Alarmierungs- und Zustandsüberwachungssystems für Produktionsdienste;
+- Leitung der Entwicklung einer Analyseplattform zur Konsolidierung von Daten aus mehreren Unternehmensdatenbanken;
+- Aktualisierung des zentralen Django-Repositories des Unternehmens von Django 4.2 auf 5.2, einschließlich der Behebung von Kompatibilitätsproblemen und der Modernisierung der Backend-Grundlage;
+- Enge Zusammenarbeit mit den Teams aus Engineering, Data Science und Trading bei der Konzeption zuverlässiger Backend- und Datenlösungen.
+
+ > Tech stack: `Python`, `Django`, `PostgreSQL`, `Docker`, `AWS`, `Grafana`, `REST APIs` and `Git`.
+
+### <span>Data Engineer Freiwilliger, [Parceiros Pela Amazônia - PPA](https://ppa.org.br/) - `12.2025 - 03.2026` _(4 Monaten)_</span> <span><span> | </span>(remote)</span>
 - Umwandlung von Datenerfassungsprozessen in strukturierte und stabile Datenpipelines; (dato)
 
 > Tech stack: `GCP` (`Functions`, `BigQuery`, `Dataform`, `Looker`), `SQL` und `Python` (`Pandas`, `NumPy`).
@@ -22,11 +48,11 @@ Ich bin erfahrener __Data Engineer__, Webentwickler und Tech Lead mit über 17 J
 
 Nach 17 Jahren Berufserfahrung in der Softwareentwicklung habe ich mir eine Zeit der persönlichen Weiterentwicklung gewidmet und neue Bereiche wie Audiotechnik und japanische Kultur erkundet, während ich mich auf meinen Umzug nach Deutschland vorbereitete.
 
-- <span>Vorbereitung auf das Visum `(Chancenkarte - § 20a AufenthG)` für und Umzug nach Deutschland - 02.2025 - 09.2025</span>
-- <span>Deutschkurs am Goethe-Institut Hamburg für das A2-Zertifikat - Hamburg, Deutschland - 02.2025 - 03.2025</span>
-- <span>Data-Engineering-Kurse auf [Coursera](https://www.coursera.org/learner/cesarcardoso) - 12.2024 - 01.2025</span>
-- <span>Japanische Kultur- und Sprachkurs an der Akita Inaka Schule - Kosaka, Japan - 10.2024</span>
-- <span>Kurs „Grundlagen der Tontechnik und digitale Mischpulte“ am IAV - Instituto de Áudio e Vídeo - São Paulo, Brasilien - 07.2024 - 08.2024</span>
+- Vorbereitung auf das Visum `(Chancenkarte - § 20a AufenthG)` für und Umzug nach Deutschland - 02.2025 - 09.2025;
+- Deutschkurs am Goethe-Institut Hamburg für das A2-Zertifikat - Hamburg, Deutschland - 02.2025 - 03.2025;
+- Data-Engineering-Kurse auf [Coursera](https://www.coursera.org/learner/cesarcardoso) - 12.2024 - 01.2025;
+- Japanische Kultur- und Sprachkurs an der Akita Inaka Schule - Kosaka, Japan - 10.2024;
+- Kurs „Grundlagen der Tontechnik und digitale Mischpulte“ am IAV - Instituto de Áudio e Vídeo - São Paulo, Brasilien - 07.2024 - 08.2024;
 
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by

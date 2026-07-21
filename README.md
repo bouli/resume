@@ -10,12 +10,34 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I'm a __Data Engineer__, Web Developer, and Tech Lead with 17+ years in tech, specializing in data strategy, __ETL__, __orchestration__, and monitoring. I use tools like __GCP__ (Functions, __BigQuery__, Storage), __SQL__ (__Postgres__, MySQL), NoSQL (__MongoDB__) and __Python__ (__PySpark__, __Pandas__) to ensure data quality, integrity and accessibility.
+I'm a __Platform Team Lead__ and hands-on Data/Backend Engineer with 17+ years in tech. I build and lead systems around data platforms, APIs, integrations, observability, and automation, with current work focused on energy-market infrastructure at __suena energy__. I care about clear ownership, reliable pipelines, pragmatic architecture, and helping teams turn messy operational data into systems people can trust.
 
 ## Experience
 
-### <span>Data Engineer Volunteer, [Parceiros Pela Amazônia - PPA](https://ppa.org.br/) - `12.2025 - Now`</span> <span><span> | </span>(remote)</span>
-- Transforming data collection processes into structured and stable pipelines; (currently)
+### <span>Platform Engineering Lead, [suena energy](https://suena.energy/) - `07.2026 - now`</span> <span><span> | </span>Hamburg, Germany</span>
+
+- Lead the Platform team as a player-coach, combining people leadership, delivery management, architecture, and hands-on backend development.
+- Own and evolve the company’s platform capabilities across APIs, backend services, databases, external integrations, observability, and health monitoring.
+- Lead the architectural decoupling of APIs, energy-market interfaces, and billing processes from a legacy monorepo into independently maintainable services.
+- Design the company’s data-platform strategy, connecting domain databases through a shared analytics layer while preserving clear data ownership across departments.
+- Enable Data Science, Trading, Operations, and Finance teams through reliable APIs, data pipelines, internal tooling, and third-party integrations.
+- Establish engineering conventions, sprint practices, technical priorities, and team responsibilities while recruiting and mentoring backend engineers.
+- Contribute to a company-wide business intelligence and reporting platform intended to replace disconnected spreadsheets and manual reporting processes.
+- Apply AI-assisted engineering workflows to software development, technical investigations, decision management, and organizational knowledge sharing.
+
+> Tech stack: `Python`, `Django`, `PostgreSQL`, `AWS` (`Lambda`, `CloudWatch`, `RDS`, `S3`, `Secrets Manager`), `Docker`, `Grafana`, `REST APIs`, `Git`, `Jira`, and integrations with energy-market and asset-management platforms.
+
+### <span>Backend Engineer, [suena energy](https://suena.energy/) - `02.2026 - 06.2026` _(4 Months)_</span> <span><span> | </span>Hamburg, Germany</span>
+
+- Developed a centralized alerting and health-monitoring system for production services;
+- Led the development of the analytics platform consolidating data from multiple company databases;
+- Upgraded the company’s core Django repo from Django 4.2 to 5.2, resolving compatibility issues and modernizing its backend foundation;
+- Collaborated across Engineering, Data Science, and Trading team to design reliable backend and data solutions.
+
+ > Tech stack: `Python`, `Django`, `PostgreSQL`, `Docker`, `AWS`, `Grafana`, `REST APIs` and `Git`.
+
+### <span>Data Engineering Volunteer, [Parceiros Pela Amazônia - PPA](https://ppa.org.br/) - `12.2025 - 03.2026` _(4 Months)_</span> <span><span> | </span>(remote)</span>
+- Transforming data collection processes into structured and stable pipelines;
 
 > Tech stack: `GCP` (`Functions`, `BigQuery`, `Dataform`, `Looker`), `SQL` und `Python` (`Pandas`, `NumPy`).
 
@@ -29,7 +51,7 @@ Following 17 years of professional experience in software development, I dedicat
 - Japanese Culture and Language Studies in Kosaka, Japan | 10.2024;
 - Audio Engineering Studies in São Paulo, Brazil | 07.2024 - 08.2024;
 
-### <span>Lead Data Engineer, [Laboratoria](https://laboratoria.la/) - `07.2021 - 06.2024` _(3 yrs)_</span> <span><span> | </span>Lima, Perú (remote)</span>
+### <span>Data Engineering Lead, [Laboratoria](https://laboratoria.la/) - `07.2021 - 06.2024` _(3 yrs)_</span> <span><span> | </span>Lima, Perú (remote)</span>
 - Transformed data collection processes into structured and stable pipelines, enhancing operational efficiency;
 - Integrated multiple new data sources into the data lake, expanding the organization's data capabilities;
 - Collaborated with C-Suite to establish OKRs, improving data reporting to donors and stakeholders;
@@ -38,7 +60,7 @@ Following 17 years of professional experience in software development, I dedicat
 > Tech stack: `GCP` (`Functions`, `BigQuery`, `Storage`, `Dataform`), `Docker`, `Postgres`, `Firebase`, `MongoDB`, `SQL` and `Python` (`Pandas`, `NumPy`, `PySpark`).
 
 
-### <span>Lead Software Engineer, [Laboratoria](https://laboratoria.la/) - `10.2018 - 07.2021` _(2 yrs 10 mos)_</span> <span><span> | </span>Lima, Perú (remote)</span>
+### <span>Software Engineering Lead, [Laboratoria](https://laboratoria.la/) - `10.2018 - 07.2021` _(2 yrs 10 mos)_</span> <span><span> | </span>Lima, Perú (remote)</span>
 - Designed and managed teams to develop systems supporting the entire student journey, from application to graduation;
 - Facilitated integration among stakeholders to achieve shared technical goals, enhancing collaboration;
 - Led the transformation of physical teams into effective remote teams, boosting productivity;

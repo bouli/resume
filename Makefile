@@ -1,9 +1,9 @@
 include .env
 deploy:
-	rm -r ${PUSH_DIR}
-	mkdir ${PUSH_DIR}
-	cp ./output/resume-for-web-de.html ${PUSH_DIR}
-	cp ./output/resume-for-web-en.html ${PUSH_DIR}
+	rm -r ${PUSH_DIR} | True
+	mkdir ${PUSH_DIR} | True
+	cp ./output/resume-for-web-de.html ${PUSH_DIR} | True
+	cp ./output/resume-for-web-en.html ${PUSH_DIR} | True
 
 build:
 	bash ./scripts/build.sh
